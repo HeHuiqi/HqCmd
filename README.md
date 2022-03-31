@@ -1,3 +1,2 @@
 
-//本地link
-npm link
+# hqcmd
