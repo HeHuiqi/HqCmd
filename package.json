@@ -1,0 +1,16 @@
+{
+    "name": "HqCmd",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "hello": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "bin": {
+        "hqcmd": "index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
