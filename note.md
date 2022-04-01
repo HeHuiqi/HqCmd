@@ -1,1 +1,0 @@
-注意package.json 的name 和 bin 的key保持一致
